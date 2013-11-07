@@ -1,6 +1,5 @@
 // Device Detection and Player by DIMTEC
 ;(function ( $, window, document, undefined ) {
-console.time("DIMTEC Player");
 
 var pluginName = "dPlayer",
 	_default = {
@@ -101,8 +100,6 @@ $.fn[ pluginName ] = function ( options ) {
 //         }
 //     });
 // };
-
-console.timeEnd("DIMTEC Player");
 
 
 })( jQuery, window, document );
