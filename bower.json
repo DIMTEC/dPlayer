@@ -1,0 +1,26 @@
+{
+  "name": "dPlayer",
+  "version": "0.1.0",
+  "homepage": "https://github.com/DIMTEC/dPlayer",
+  "authors": [
+    "ivancduran"
+  ],
+  "description": "Device Detection And Embed Code Selector",
+  "main": [
+    "js/device.js",
+  ],
+  "keywords": [
+    "Detection",
+    "Device",
+    "iOs",
+    "Android"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
