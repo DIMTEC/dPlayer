@@ -6,13 +6,11 @@
     "ivancduran"
   ],
   "description": "Device Detection And Embed Code Selector",
-  "main": [
-    "js/device.js"
-  ],
+  "main": "js/device.js",
   "keywords": [
     "Detection",
     "Device",
-    "iOs",
+    "ios",
     "Android"
   ],
   "license": "MIT",
